@@ -29,7 +29,7 @@ keeping costs low while maintaining proposal quality.
 
 ```bash
 # 1. Clone
-git clone https://github.com/[YOUR_USERNAME]/upwork-proposal-bot
+git clone https://github.com/yuvraj-xyz/upwork-proposal-bot
 cd upwork-proposal-bot
 
 # 2. Install
