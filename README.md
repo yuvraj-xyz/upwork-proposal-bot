@@ -57,8 +57,8 @@ npm start
 | ANTHROPIC_API_KEY | ✅ Yes | console.anthropic.com |
 | TELEGRAM_BOT_TOKEN | ✅ Yes | @BotFather on Telegram |
 | TELEGRAM_CHAT_ID | ✅ Yes | @userinfobot on Telegram |
-| UPWORK_CLIENT_ID/SECRET | ⏳ Pending approval | upwork.com/developer/portal |
-| UPWORK_ACCESS/REFRESH_TOKEN | ⏳ After OAuth | Generated after OAuth flow |
+| UPWORK_CLIENT_ID/SECRET | ✅ Yes | upwork.com/developer/portal |
+| UPWORK_ACCESS/REFRESH_TOKEN | ✅ Yes | Generated after OAuth flow |
 
 **Note:** While awaiting Upwork API OAuth approval, the bot runs on
 RSS feeds (limited data but functional).
@@ -75,10 +75,8 @@ RSS feeds (limited data but functional).
 
 - ✅ Core pipeline built and working
 - ✅ RSS feed mode active
-- ⏳ Blocked on Upwork OAuth approval for full API access
-- 📋 Next: Deploy to Railway once OAuth keys arrive
+- ✅ Upwork OAuth approval needed for full API access
 
 ## Built by
 
-Yuvraj — [yuvrajinmotion.com](https://yuvrajinmotion.com) ·
-[LinkedIn](https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE])
+Yuvraj
