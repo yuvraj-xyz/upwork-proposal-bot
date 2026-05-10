@@ -1,0 +1,21 @@
+{
+  "keywords": [
+    "SaaS explainer video",
+    "demo video",
+    "product explainer"
+  ],
+  "pollIntervalMs": 120000,
+  "budget": {
+    "fixedMin": 400,
+    "hourlyMin": 20
+  },
+  "outputFolder": "proposals",
+  "freelancer": {
+    "name": "Your Name",
+    "tagline": "Your positioning tagline here",
+    "portfolio": {
+      "project-name": "https://yourportfolio.com/work/project-name",
+      "Full Portfolio": "https://yourportfolio.com/"
+    }
+  }
+}
