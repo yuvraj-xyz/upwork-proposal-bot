@@ -77,6 +77,3 @@ RSS feeds (limited data but functional).
 - ✅ RSS feed mode active
 - ✅ Upwork OAuth approval needed for full API access
 
-## Built by
-
-Yuvraj
